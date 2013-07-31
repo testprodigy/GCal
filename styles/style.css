@@ -1,0 +1,14 @@
+.resultClass{
+	position: relative;
+	float: left;
+	width: 300px;
+}
+
+.event_span{
+	width: 300px;
+	background: #DDD;
+	float: left;
+	position: relative;
+	padding: 10px;
+	margin-bottom: 10px;
+}
